@@ -16,11 +16,22 @@ County and Candidate Vote Analysis:
 # Election-Audit Results: 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 - How many votes were cast in this congressional election?
+  There were a total of 369,711 votes casted in this congressional election.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  Jefferson County had a total of 38,855 votes or 10.5% of the total votes.
+  Denver County had a total of 306,055 votes or 82.8% of the total votes.
+  Arapahoe had a total of 24,801 votes or 6.7% of the total votes.
+  
 - Which county had the largest number of votes?
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  The county with the largest number of votes is Denver County.
 
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  Charles Casper Stockham had a total of 85,213 votes or 23% of the total votes.
+  Diana DeGette had a total of 272,892 votes or 73.8% of the total votes.
+  Raymon Anthony Doane had a total of 11,606 votes or 3.1% of the total votes.
+
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  Daiana DeGette won the election and had a total of 272,892 votes or 73.8% of the total votes.
 
 # Election-Audit Summary:
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
