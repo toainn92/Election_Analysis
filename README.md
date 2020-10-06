@@ -1,7 +1,7 @@
 # Election_Analysis
 
 # Overview of Election Audit: 
-The purpose of this election audit analysis is to obtain addtional data to the election commision. The following data was requested by the election commission.
+The purpose of this election audit analysis is to obtain addtional data to the election commision. This analysis and audit are conducted using Python 3.7.6 on a CSV filed called "election_results".  The following data was requested by the election commission.
 
 County and Candidate Vote Analysis:
 - The total number of votes received
