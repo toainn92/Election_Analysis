@@ -1,7 +1,17 @@
 # Election_Analysis
 
 # Overview of Election Audit: 
-Explain the purpose of this election audit analysis.
+The purpose of this election audit analysis is to obtain addtional data to the election commision. The following data was requested by the election commission.
+
+County and Candidate Vote Analysis
+-The total number of votes received
+-The voter turnout for each county
+-The percentage of votes from each county out of the total count
+-The county with the largest turnout
+-The voter count for each candidate
+-The percentages of votes for each candidate out of the total count
+-The winning candidate, winning vote count, and winning percentage
+
 
 # Election-Audit Results: 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
