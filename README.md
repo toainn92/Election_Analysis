@@ -34,10 +34,14 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - Diana DeGette won the election and had a total of 272,892 votes or 73.8% of the total votes.
 
-To obtain this analysis, the script (PyPoll_Challenge.py) was executed on Python. Below is a screenshot of the terminal when the script is runned.
+To obtain this analysis, the script (PyPoll_Challenge.py) was executed on Python. Below is a screenshot of the terminal when the script is runned. The output of the execution is also written to Analysis/election_results.txt.
 
 ![](Resources/Terminal_screenshot.PNG)
 
 
 # Election-Audit Summary:
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+With this written Python script, the election commission can use this for any election, if they seek to obtain the same data parameters and if the CSV file is arranged in the same format. If any additional data parameters is needed to be analyzed, the Python script can be modified or updated to fit the need of the data analysis.
+
+Two potential examples of how the script can be modified in future elections are:
+- The script can break down the candidate votes in each county along with additional data on number of votes that each candidate received and their percentage of total votes received in the county.
+- The county with the least amount of votes.
